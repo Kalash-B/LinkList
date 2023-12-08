@@ -6,7 +6,7 @@
     height: calc(100vh - 20px);
     overflow: scroll;
     /* background-color: #e57a6e; */
-    background-image:url(BG.jpg);
+    background-image:url(BG.webp);
 }
 .child{
     display: flex;
